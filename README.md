@@ -21,6 +21,8 @@ I turn data into working solutions — from automatic toxic content moderation i
 
 I love hands-on practice and classical ML problems. One of the few people who genuinely finds training AI exciting. I also have experience writing technical articles on Machine Learning.
 
+Since November 2026, a participant in the main wave of "School 21" in the field of Data Science
+
 ---
 
 ## 🛠️ Skills
